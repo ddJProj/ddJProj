@@ -6,7 +6,7 @@
   - Ideally would like to transition to a Machine learning / Material science based software engineering position once I qualify.
 
 - 🌱 I’m currently learning: Rust, WebAssembly
-- 👯 I’m looking to collaborate on: Embedded systems projects
+- 👯 I’m looking to collaborate on: Embedded & operating systems projects
 - 🤔 I’m looking for help with: Career / Networking
 - 💬 Ask me about: Anything
 - 📫 How to reach me: edd.f.johnson.work@gmail.com
