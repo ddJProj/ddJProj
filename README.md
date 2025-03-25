@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-- 🔭 Recent graduate with B.S. Degree in Computer Science (Graduated Summer 2024)
+- 🔭 Recent graduate with B.S. Degree in Computer Science (Graduated Fall 2024 - Conferral in October)
   - I have a background in Biochemistry. Would like to complete a masters in Computational Science or Data science in the near future.
   - Looking to work as a Software Engineer/Developer in the immediate future.
   - Ideally would like to transition to a Machine learning / Material science based software engineering position once I qualify.
