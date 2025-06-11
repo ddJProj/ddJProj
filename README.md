@@ -15,7 +15,7 @@
 - 🤔 I'm looking for help with: Career development and professional networking
 - 💬 Ask me about: My projects, technical challenges, or anything else!
 - 📫 How to reach me: edd.f.johnson.work@gmail.com
-- 🌐 My portfolio & blog: (Major overhaul is in the works, as the current iteration is primarily education focused) - <https://ddjproj.github.io>
+- 🌐 My portfolio & blog: (Major overhaul is in the works, the current iteration is primarily education focused) - <https://ddjproj.github.io>
 
 
 
