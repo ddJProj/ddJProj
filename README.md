@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-- 🔭 Recent graduate with B.S. in Computer Science (Fall 2024) with a background in Biochemistry and Russian Studies
+- 🔭 B.S. degree holder in Computer Science (Fall 2024) with a background in Biochemistry and Russian Studies
   - Passionate about lifelong learning and interested in pursuing advanced education in computational fields when the opportunity aligns with career growth
   - Strong foundation in full-stack development with hands-on experience in embedded systems
   - Fascinated by the intersection of software engineering, materials science, and machine learning applications, particularly in areas relating to reactive chemistry, such as with (MLIPs) machine learning interatomic potential calculations
