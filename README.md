@@ -35,7 +35,7 @@ Other:      Kotlin, Rust, C/C++, Python
 * 💬 Ask me about my projects, technical challenges, or anything else!
 * 📫 Reach me at: **edd.f.johnson.work@gmail.com**
 * 🔗 LinkedIn: [edward-johnson-4482a1279](https://www.linkedin.com/in/edward-johnson-4482a1279/)
-* 🌐 Portfolio: [ddjproj.github.io](https://ddjproj.github.io) *(major overhaul in progress)*
+* 🌐 Portfolio: []() *(major overhaul in progress)*
 
 
 
