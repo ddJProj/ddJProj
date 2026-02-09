@@ -1,8 +1,8 @@
 # Hi there 👋
 
 ## About Me
-* 🔭 **B.S. in Computer Science** (Fall 2024, Summa Cum Laude, 4.0 GPA) with background in Biochemistry and Russian Studies
-* 💼 **Full Stack Java Developer** at Revature - building enterprise applications with Spring Boot, React, and AWS
+* 🔭 **B.S. in Computer Science** with background in Biochemistry and Russian Studies
+* 💼 **Full Stack Java Developer** - building enterprise applications with Spring Boot, React, and AWS
 * 🚀 Strong foundation in full-stack development with hands-on experience in embedded systems
 * 🎯 Passionate about lifelong learning and creating software that delivers real-world value
 
