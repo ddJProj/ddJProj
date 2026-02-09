@@ -1,4 +1,3 @@
-# Hi there 👋
 
 ## About Me
 *  **B.S. in Computer Science** with background in Biochemistry and Russian Studies
